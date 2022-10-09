@@ -1,5 +1,7 @@
 # Auto Download from Olympus Tough TG-6
 
+<img src="https://cdn.masto.host/tootwales/media_attachments/files/109/138/649/284/053/293/small/cb9d8b12c162af2d.jpeg" width="30%"> <img src="https://cdn.masto.host/tootwales/media_attachments/files/109/138/649/411/940/652/small/0126a9b35eb9b739.jpeg" width="30%"> <img src="https://cdn.masto.host/tootwales/media_attachments/files/109/138/649/517/365/161/small/4b8e9a5ee408ebad.jpeg" width="30%">
+
 This is a set of scripts that automatically download all pictures from the
 Olympus Tough TG-6 camera over the WIFI connection.
 
@@ -75,3 +77,6 @@ Now, it should work:
 
 Now, your pictures get copied.
 
+## Related
+
+- [toot](https://toot.wales/@niccokunzmann/109138649568136197)
